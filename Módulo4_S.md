@@ -1,4 +1,7 @@
-´´´Java
+### 💻 Código Completo do Jogo
+
+```java
+
 import java.util.Scanner;
 
 // Classe que representa o objeto na Heap
